@@ -1,22 +1,9 @@
+# todo api server
 
-Application created by [ThinkJS](http://www.thinkjs.org)
+ling-todo 的 api server
 
-## Install dependencies
+RESTFUL
 
-```
-npm install
-```
+Powered by thinkjs.
 
-## Start server
-
-```
-npm start
-```
-
-## Deploy with pm2
-
-Use pm2 to deploy app on production enviroment.
-
-```
-pm2 startOrReload pm2.json
-```
+2016年04月10日
